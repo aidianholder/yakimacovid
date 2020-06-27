@@ -1,1 +1,592 @@
-[{'Date': 20200301, 'Cases': 377}, {'Date': 20200302, 'Cases': 450}, {'Date': 20200303, 'Cases': 534}, {'Date': 20200304, 'Cases': 626}, {'Date': 20200305, 'Cases': 731}, {'Date': 20200306, 'Cases': 813}, {'Date': 20200307, 'Cases': 912}, {'Date': 20200308, 'Cases': 1065}, {'Date': 20200309, 'Cases': 1237}, {'Date': 20200310, 'Cases': 1453}, {'Date': 20200311, 'Cases': 1665}, {'Date': 20200312, 'Cases': 1921}, {'Date': 20200313, 'Cases': 2218}, {'Date': 20200314, 'Cases': 2484}, {'Date': 20200315, 'Cases': 2738}, {'Date': 20200316, 'Cases': 3107}, {'Date': 20200317, 'Cases': 3432}, {'Date': 20200318, 'Cases': 3810}, {'Date': 20200319, 'Cases': 4146}, {'Date': 20200320, 'Cases': 4551}, {'Date': 20200321, 'Cases': 4837}, {'Date': 20200322, 'Cases': 5121}, {'Date': 20200323, 'Cases': 5568}, {'Date': 20200324, 'Cases': 5923}, {'Date': 20200325, 'Cases': 6329}, {'Date': 20200326, 'Cases': 6700}, {'Date': 20200327, 'Cases': 7076}, {'Date': 20200328, 'Cases': 7397}, {'Date': 20200329, 'Cases': 7715}, {'Date': 20200330, 'Cases': 8120}, {'Date': 20200331, 'Cases': 8431}, {'Date': 20200401, 'Cases': 8869}, {'Date': 20200402, 'Cases': 9201}, {'Date': 20200403, 'Cases': 9485}, {'Date': 20200404, 'Cases': 9732}, {'Date': 20200405, 'Cases': 9953}, {'Date': 20200406, 'Cases': 10282}, {'Date': 20200407, 'Cases': 10547}, {'Date': 20200408, 'Cases': 10831}, {'Date': 20200409, 'Cases': 11118}, {'Date': 20200410, 'Cases': 11395}, {'Date': 20200411, 'Cases': 11605}, {'Date': 20200412, 'Cases': 11775}, {'Date': 20200413, 'Cases': 12079}, {'Date': 20200414, 'Cases': 12303}, {'Date': 20200415, 'Cases': 12619}, {'Date': 20200416, 'Cases': 12872}, {'Date': 20200417, 'Cases': 13174}, {'Date': 20200418, 'Cases': 13407}, {'Date': 20200419, 'Cases': 13583}, {'Date': 20200420, 'Cases': 13890}, {'Date': 20200421, 'Cases': 14133}, {'Date': 20200422, 'Cases': 14375}, {'Date': 20200423, 'Cases': 14628}, {'Date': 20200424, 'Cases': 14913}, {'Date': 20200425, 'Cases': 15110}, {'Date': 20200426, 'Cases': 15292}, {'Date': 20200427, 'Cases': 15566}, {'Date': 20200428, 'Cases': 15798}, {'Date': 20200429, 'Cases': 16042}, {'Date': 20200430, 'Cases': 16309}, {'Date': 20200501, 'Cases': 16653}, {'Date': 20200502, 'Cases': 16802}, {'Date': 20200503, 'Cases': 16943}, {'Date': 20200504, 'Cases': 17209}, {'Date': 20200505, 'Cases': 17470}, {'Date': 20200506, 'Cases': 17718}, {'Date': 20200507, 'Cases': 17914}, {'Date': 20200508, 'Cases': 18124}, {'Date': 20200509, 'Cases': 18275}, {'Date': 20200510, 'Cases': 18449}, {'Date': 20200511, 'Cases': 18741}, {'Date': 20200512, 'Cases': 18952}, {'Date': 20200513, 'Cases': 19179}, {'Date': 20200514, 'Cases': 19424}, {'Date': 20200515, 'Cases': 19650}, {'Date': 20200516, 'Cases': 19838}, {'Date': 20200517, 'Cases': 19991}, {'Date': 20200518, 'Cases': 20286}, {'Date': 20200519, 'Cases': 20535}, {'Date': 20200520, 'Cases': 20784}, {'Date': 20200521, 'Cases': 20988}, {'Date': 20200522, 'Cases': 21283}, {'Date': 20200523, 'Cases': 21492}, {'Date': 20200524, 'Cases': 21652}, {'Date': 20200525, 'Cases': 21909}, {'Date': 20200526, 'Cases': 22184}, {'Date': 20200527, 'Cases': 22483}, {'Date': 20200528, 'Cases': 22753}, {'Date': 20200529, 'Cases': 23047}, {'Date': 20200530, 'Cases': 23275}, {'Date': 20200531, 'Cases': 23456}, {'Date': 20200601, 'Cases': 23798}, {'Date': 20200602, 'Cases': 24086}, {'Date': 20200603, 'Cases': 24385}, {'Date': 20200604, 'Cases': 24677}, {'Date': 20200605, 'Cases': 25023}, {'Date': 20200606, 'Cases': 25227}, {'Date': 20200607, 'Cases': 25419}, {'Date': 20200608, 'Cases': 25732}, {'Date': 20200609, 'Cases': 26004}, {'Date': 20200610, 'Cases': 26281}, {'Date': 20200611, 'Cases': 26559}, {'Date': 20200612, 'Cases': 26825}, {'Date': 20200613, 'Cases': 26985}, {'Date': 20200614, 'Cases': 27095}, {'Date': 20200615, 'Cases': 27493}, {'Date': 20200616, 'Cases': 27925}, {'Date': 20200617, 'Cases': 28255}, {'Date': 20200618, 'Cases': 28575}, {'Date': 20200619, 'Cases': 28666}, {'Date': 20200620, 'Cases': 28680}, {'Date': 20200621, 'Cases': 28255}, {'Date': 20200622, 'Cases': 28680}, {'Date': 20200623, 'Cases': 28870}, {'Date': 20200624, 'Cases': 29386}, {'Date': 20200625, 'Cases': 29869}]
+[
+  {
+    "Date": 20200301,
+    "Cases": 377,
+    "New Cases": 78
+  },
+  {
+    "Date": 20200302,
+    "Cases": 450,
+    "New Cases": 73
+  },
+  {
+    "Date": 20200303,
+    "Cases": 534,
+    "New Cases": 84
+  },
+  {
+    "Date": 20200304,
+    "Cases": 626,
+    "New Cases": 92
+  },
+  {
+    "Date": 20200305,
+    "Cases": 731,
+    "New Cases": 105
+  },
+  {
+    "Date": 20200306,
+    "Cases": 813,
+    "New Cases": 82
+  },
+  {
+    "Date": 20200307,
+    "Cases": 912,
+    "New Cases": 99
+  },
+  {
+    "Date": 20200308,
+    "Cases": 1065,
+    "New Cases": 153
+  },
+  {
+    "Date": 20200309,
+    "Cases": 1237,
+    "New Cases": 172
+  },
+  {
+    "Date": 20200310,
+    "Cases": 1453,
+    "New Cases": 216
+  },
+  {
+    "Date": 20200311,
+    "Cases": 1665,
+    "New Cases": 212
+  },
+  {
+    "Date": 20200312,
+    "Cases": 1921,
+    "New Cases": 256
+  },
+  {
+    "Date": 20200313,
+    "Cases": 2218,
+    "New Cases": 297
+  },
+  {
+    "Date": 20200314,
+    "Cases": 2484,
+    "New Cases": 266
+  },
+  {
+    "Date": 20200315,
+    "Cases": 2738,
+    "New Cases": 254
+  },
+  {
+    "Date": 20200316,
+    "Cases": 3107,
+    "New Cases": 369
+  },
+  {
+    "Date": 20200317,
+    "Cases": 3432,
+    "New Cases": 325
+  },
+  {
+    "Date": 20200318,
+    "Cases": 3810,
+    "New Cases": 378
+  },
+  {
+    "Date": 20200319,
+    "Cases": 4146,
+    "New Cases": 336
+  },
+  {
+    "Date": 20200320,
+    "Cases": 4551,
+    "New Cases": 405
+  },
+  {
+    "Date": 20200321,
+    "Cases": 4837,
+    "New Cases": 286
+  },
+  {
+    "Date": 20200322,
+    "Cases": 5121,
+    "New Cases": 284
+  },
+  {
+    "Date": 20200323,
+    "Cases": 5568,
+    "New Cases": 447
+  },
+  {
+    "Date": 20200324,
+    "Cases": 5923,
+    "New Cases": 355
+  },
+  {
+    "Date": 20200325,
+    "Cases": 6329,
+    "New Cases": 406
+  },
+  {
+    "Date": 20200326,
+    "Cases": 6700,
+    "New Cases": 371
+  },
+  {
+    "Date": 20200327,
+    "Cases": 7076,
+    "New Cases": 376
+  },
+  {
+    "Date": 20200328,
+    "Cases": 7397,
+    "New Cases": 321
+  },
+  {
+    "Date": 20200329,
+    "Cases": 7715,
+    "New Cases": 318
+  },
+  {
+    "Date": 20200330,
+    "Cases": 8120,
+    "New Cases": 405
+  },
+  {
+    "Date": 20200331,
+    "Cases": 8431,
+    "New Cases": 311
+  },
+  {
+    "Date": 20200401,
+    "Cases": 8869,
+    "New Cases": 438
+  },
+  {
+    "Date": 20200402,
+    "Cases": 9201,
+    "New Cases": 332
+  },
+  {
+    "Date": 20200403,
+    "Cases": 9485,
+    "New Cases": 284
+  },
+  {
+    "Date": 20200404,
+    "Cases": 9732,
+    "New Cases": 247
+  },
+  {
+    "Date": 20200405,
+    "Cases": 9953,
+    "New Cases": 221
+  },
+  {
+    "Date": 20200406,
+    "Cases": 10282,
+    "New Cases": 329
+  },
+  {
+    "Date": 20200407,
+    "Cases": 10547,
+    "New Cases": 265
+  },
+  {
+    "Date": 20200408,
+    "Cases": 10831,
+    "New Cases": 284
+  },
+  {
+    "Date": 20200409,
+    "Cases": 11118,
+    "New Cases": 287
+  },
+  {
+    "Date": 20200410,
+    "Cases": 11395,
+    "New Cases": 277
+  },
+  {
+    "Date": 20200411,
+    "Cases": 11605,
+    "New Cases": 210
+  },
+  {
+    "Date": 20200412,
+    "Cases": 11775,
+    "New Cases": 170
+  },
+  {
+    "Date": 20200413,
+    "Cases": 12079,
+    "New Cases": 304
+  },
+  {
+    "Date": 20200414,
+    "Cases": 12303,
+    "New Cases": 224
+  },
+  {
+    "Date": 20200415,
+    "Cases": 12619,
+    "New Cases": 316
+  },
+  {
+    "Date": 20200416,
+    "Cases": 12872,
+    "New Cases": 253
+  },
+  {
+    "Date": 20200417,
+    "Cases": 13174,
+    "New Cases": 302
+  },
+  {
+    "Date": 20200418,
+    "Cases": 13407,
+    "New Cases": 233
+  },
+  {
+    "Date": 20200419,
+    "Cases": 13583,
+    "New Cases": 176
+  },
+  {
+    "Date": 20200420,
+    "Cases": 13890,
+    "New Cases": 307
+  },
+  {
+    "Date": 20200421,
+    "Cases": 14133,
+    "New Cases": 243
+  },
+  {
+    "Date": 20200422,
+    "Cases": 14375,
+    "New Cases": 242
+  },
+  {
+    "Date": 20200423,
+    "Cases": 14628,
+    "New Cases": 253
+  },
+  {
+    "Date": 20200424,
+    "Cases": 14913,
+    "New Cases": 285
+  },
+  {
+    "Date": 20200425,
+    "Cases": 15110,
+    "New Cases": 197
+  },
+  {
+    "Date": 20200426,
+    "Cases": 15292,
+    "New Cases": 182
+  },
+  {
+    "Date": 20200427,
+    "Cases": 15566,
+    "New Cases": 274
+  },
+  {
+    "Date": 20200428,
+    "Cases": 15798,
+    "New Cases": 232
+  },
+  {
+    "Date": 20200429,
+    "Cases": 16042,
+    "New Cases": 244
+  },
+  {
+    "Date": 20200430,
+    "Cases": 16309,
+    "New Cases": 267
+  },
+  {
+    "Date": 20200501,
+    "Cases": 16653,
+    "New Cases": 344
+  },
+  {
+    "Date": 20200502,
+    "Cases": 16802,
+    "New Cases": 149
+  },
+  {
+    "Date": 20200503,
+    "Cases": 16943,
+    "New Cases": 141
+  },
+  {
+    "Date": 20200504,
+    "Cases": 17209,
+    "New Cases": 266
+  },
+  {
+    "Date": 20200505,
+    "Cases": 17470,
+    "New Cases": 261
+  },
+  {
+    "Date": 20200506,
+    "Cases": 17718,
+    "New Cases": 248
+  },
+  {
+    "Date": 20200507,
+    "Cases": 17914,
+    "New Cases": 196
+  },
+  {
+    "Date": 20200508,
+    "Cases": 18124,
+    "New Cases": 210
+  },
+  {
+    "Date": 20200509,
+    "Cases": 18275,
+    "New Cases": 151
+  },
+  {
+    "Date": 20200510,
+    "Cases": 18449,
+    "New Cases": 174
+  },
+  {
+    "Date": 20200511,
+    "Cases": 18741,
+    "New Cases": 292
+  },
+  {
+    "Date": 20200512,
+    "Cases": 18952,
+    "New Cases": 211
+  },
+  {
+    "Date": 20200513,
+    "Cases": 19179,
+    "New Cases": 227
+  },
+  {
+    "Date": 20200514,
+    "Cases": 19424,
+    "New Cases": 245
+  },
+  {
+    "Date": 20200515,
+    "Cases": 19650,
+    "New Cases": 226
+  },
+  {
+    "Date": 20200516,
+    "Cases": 19838,
+    "New Cases": 188
+  },
+  {
+    "Date": 20200517,
+    "Cases": 19991,
+    "New Cases": 153
+  },
+  {
+    "Date": 20200518,
+    "Cases": 20286,
+    "New Cases": 295
+  },
+  {
+    "Date": 20200519,
+    "Cases": 20535,
+    "New Cases": 249
+  },
+  {
+    "Date": 20200520,
+    "Cases": 20784,
+    "New Cases": 249
+  },
+  {
+    "Date": 20200521,
+    "Cases": 20988,
+    "New Cases": 204
+  },
+  {
+    "Date": 20200522,
+    "Cases": 21283,
+    "New Cases": 295
+  },
+  {
+    "Date": 20200523,
+    "Cases": 21492,
+    "New Cases": 209
+  },
+  {
+    "Date": 20200524,
+    "Cases": 21652,
+    "New Cases": 160
+  },
+  {
+    "Date": 20200525,
+    "Cases": 21909,
+    "New Cases": 257
+  },
+  {
+    "Date": 20200526,
+    "Cases": 22184,
+    "New Cases": 275
+  },
+  {
+    "Date": 20200527,
+    "Cases": 22483,
+    "New Cases": 299
+  },
+  {
+    "Date": 20200528,
+    "Cases": 22753,
+    "New Cases": 270
+  },
+  {
+    "Date": 20200529,
+    "Cases": 23047,
+    "New Cases": 294
+  },
+  {
+    "Date": 20200530,
+    "Cases": 23275,
+    "New Cases": 228
+  },
+  {
+    "Date": 20200531,
+    "Cases": 23456,
+    "New Cases": 181
+  },
+  {
+    "Date": 20200601,
+    "Cases": 23798,
+    "New Cases": 342
+  },
+  {
+    "Date": 20200602,
+    "Cases": 24086,
+    "New Cases": 288
+  },
+  {
+    "Date": 20200603,
+    "Cases": 24385,
+    "New Cases": 299
+  },
+  {
+    "Date": 20200604,
+    "Cases": 24677,
+    "New Cases": 292
+  },
+  {
+    "Date": 20200605,
+    "Cases": 25023,
+    "New Cases": 346
+  },
+  {
+    "Date": 20200606,
+    "Cases": 25227,
+    "New Cases": 204
+  },
+  {
+    "Date": 20200607,
+    "Cases": 25419,
+    "New Cases": 192
+  },
+  {
+    "Date": 20200608,
+    "Cases": 25732,
+    "New Cases": 313
+  },
+  {
+    "Date": 20200609,
+    "Cases": 26004,
+    "New Cases": 272
+  },
+  {
+    "Date": 20200610,
+    "Cases": 26281,
+    "New Cases": 277
+  },
+  {
+    "Date": 20200611,
+    "Cases": 26559,
+    "New Cases": 278
+  },
+  {
+    "Date": 20200612,
+    "Cases": 26825,
+    "New Cases": 266
+  },
+  {
+    "Date": 20200613,
+    "Cases": 26985,
+    "New Cases": 160
+  },
+  {
+    "Date": 20200614,
+    "Cases": 27095,
+    "New Cases": 110
+  },
+  {
+    "Date": 20200615,
+    "Cases": 27493,
+    "New Cases": 398
+  },
+  {
+    "Date": 20200616,
+    "Cases": 27925,
+    "New Cases": 432
+  },
+  {
+    "Date": 20200617,
+    "Cases": 28255,
+    "New Cases": 330
+  },
+  {
+    "Date": 20200618,
+    "Cases": 28575,
+    "New Cases": 320
+  },
+  {
+    "Date": 20200619,
+    "Cases": 28666,
+    "New Cases": 91
+  },
+  {
+    "Date": 20200620,
+    "Cases": 28680,
+    "New Cases": 14
+  },
+  {
+    "Date": 20200621,
+    "Cases": 28255,
+    "New Cases": 0
+  },
+  {
+    "Date": 20200622,
+    "Cases": 28680,
+    "New Cases": 425
+  },
+  {
+    "Date": 20200623,
+    "Cases": 28870,
+    "New Cases": 190
+  },
+  {
+    "Date": 20200624,
+    "Cases": 29386,
+    "New Cases": 516
+  },
+  {
+    "Date": 20200625,
+    "Cases": 29869,
+    "New Cases": 483
+  },
+  {
+    "Date": 20200626,
+    "Cases": 30367,
+    "New Cases": 498
+  }
+]
