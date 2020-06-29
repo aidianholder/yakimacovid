@@ -561,13 +561,13 @@
   },
   {
     "Date": 20200621,
-    "Cases": 28255,
+    "Cases": 28225,
     "New Cases": 0
   },
   {
     "Date": 20200622,
     "Cases": 28680,
-    "New Cases": 425
+    "New Cases": 455
   },
   {
     "Date": 20200623,
@@ -588,5 +588,15 @@
     "Date": 20200626,
     "Cases": 30367,
     "New Cases": 498
+  },
+  {
+    "Date": 20200627,
+    "Cases": 30855,
+    "New Cases": 488
+  },
+  {
+    "Date": 20200628,
+    "Cases": 31404,
+    "New Cases": 549
   }
 ]
