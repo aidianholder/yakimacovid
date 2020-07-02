@@ -608,5 +608,15 @@
     "Date": 20200630,
     "Cases": 32253,
     "New Cases": 501
+  },
+  {
+    "Date": 20200701,
+    "Cases": 32824,
+    "New Cases": 571
+  },
+  {
+    "Date": 20200702,
+    "Cases": 33435,
+    "New Cases": 611
   }
 ]
