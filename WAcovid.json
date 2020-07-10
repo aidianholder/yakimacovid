@@ -638,5 +638,20 @@
     "Date": 20200706,
     "Cases": 35898,
     "New Cases": 651
+  },
+  {
+    "Date": 20200707,
+    "Cases": 36985,
+    "New Cases": 1087
+  },
+  {
+    "Date": 20200708,
+    "Cases": 37420,
+    "New Cases": 435
+  },
+  {
+    "Date": 20200709,
+    "Cases": 37941,
+    "New Cases": 521
   }
 ]
