@@ -678,5 +678,45 @@
     "Date": 20200714,
     "Cases": 41757,
     "New Cases": 1101
+  },
+  {
+    "Date": 20200715,
+    "Cases": 42304,
+    "New Cases": 547
+  },
+  {
+    "Date": 20200716,
+    "Cases": 43046,
+    "New Cases": 742
+  },
+  {
+    "Date": 20200717,
+    "Cases": 44313,
+    "New Cases": 1267
+  },
+  {
+    "Date": 20200718,
+    "Cases": 45067,
+    "New Cases": 754
+  },
+  {
+    "Date": 20200719,
+    "Cases": 46026,
+    "New Cases": 959
+  },
+  {
+    "Date": 20200720,
+    "Cases": 46946,
+    "New Cases": 920
+  },
+  {
+    "Date": 20200721,
+    "Cases": 47743,
+    "New Cases": 797
+  },
+  {
+    "Date": 20200722,
+    "Cases": 48575,
+    "New Cases": 832
   }
 ]
