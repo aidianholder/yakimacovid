@@ -723,5 +723,20 @@
     "Date": 20200723,
     "Cases": 49247,
     "New Cases": 672
+  },
+  {
+    "Date": 20200724,
+    "Cases": 50009,
+    "New Cases": 762
+  },
+  {
+    "Date": 20200725,
+    "Cases": 50824,
+    "New Cases": 815
+  },
+  {
+    "Date": 20200726,
+    "Cases": 51849,
+    "New Cases": 1025
   }
 ]
