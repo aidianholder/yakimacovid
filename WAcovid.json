@@ -748,5 +748,35 @@
     "Date": 20200728,
     "Cases": 53321,
     "New Cases": 686
+  },
+  {
+    "Date": 20200729,
+    "Cases": 54205,
+    "New Cases": 884
+  },
+  {
+    "Date": 20200730,
+    "Cases": 54985,
+    "New Cases": 780
+  },
+  {
+    "Date": 20200731,
+    "Cases": 55803,
+    "New Cases": 818
+  },
+  {
+    "Date": 20200801,
+    "Cases": 55803,
+    "New Cases": 0
+  },
+  {
+    "Date": 20200802,
+    "Cases": 57541,
+    "New Cases": 1738
+  },
+  {
+    "Date": 20200803,
+    "Cases": 58173,
+    "New Cases": 632
   }
 ]
