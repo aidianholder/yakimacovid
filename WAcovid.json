@@ -818,5 +818,40 @@
     "Date": 20200811,
     "Cases": 63647,
     "New Cases": 575
+  },
+  {
+    "Date": 20200812,
+    "Cases": 64151,
+    "New Cases": 504
+  },
+  {
+    "Date": 20200813,
+    "Cases": 64702,
+    "New Cases": 551
+  },
+  {
+    "Date": 20200814,
+    "Cases": 65339,
+    "New Cases": 637
+  },
+  {
+    "Date": 20200815,
+    "Cases": 66139,
+    "New Cases": 800
+  },
+  {
+    "Date": 20200816,
+    "Cases": 66885,
+    "New Cases": 746
+  },
+  {
+    "Date": 20200817,
+    "Cases": 67461,
+    "New Cases": 576
+  },
+  {
+    "Date": 20200818,
+    "Cases": 67721,
+    "New Cases": 260
   }
 ]
