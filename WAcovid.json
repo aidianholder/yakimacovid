@@ -968,5 +968,135 @@
     "Date": 20200910,
     "Cases": 78467,
     "New Cases": 458
+  },
+  {
+    "Date": 20200911,
+    "Cases": 79011,
+    "New Cases": 544
+  },
+  {
+    "Date": 20200912,
+    "Cases": 79476,
+    "New Cases": 465
+  },
+  {
+    "Date": 20200913,
+    "Cases": 79826,
+    "New Cases": 350
+  },
+  {
+    "Date": 20200914,
+    "Cases": 80138,
+    "New Cases": 312
+  },
+  {
+    "Date": 20200915,
+    "Cases": 80465,
+    "New Cases": 327
+  },
+  {
+    "Date": 20200916,
+    "Cases": 80812,
+    "New Cases": 347
+  },
+  {
+    "Date": 20200917,
+    "Cases": 81198,
+    "New Cases": 386
+  },
+  {
+    "Date": 20200918,
+    "Cases": 81602,
+    "New Cases": 404
+  },
+  {
+    "Date": 20200919,
+    "Cases": 81602,
+    "New Cases": 0
+  },
+  {
+    "Date": 20200920,
+    "Cases": 82199,
+    "New Cases": 597
+  },
+  {
+    "Date": 20200921,
+    "Cases": 82548,
+    "New Cases": 349
+  },
+  {
+    "Date": 20200922,
+    "Cases": 83193,
+    "New Cases": 645
+  },
+  {
+    "Date": 20200923,
+    "Cases": 83193,
+    "New Cases": 0
+  },
+  {
+    "Date": 20200924,
+    "Cases": 83702,
+    "New Cases": 509
+  },
+  {
+    "Date": 20200925,
+    "Cases": 84238,
+    "New Cases": 536
+  },
+  {
+    "Date": 20200926,
+    "Cases": 85226,
+    "New Cases": 988
+  },
+  {
+    "Date": 20200927,
+    "Cases": 85830,
+    "New Cases": 604
+  },
+  {
+    "Date": 20200928,
+    "Cases": 86269,
+    "New Cases": 439
+  },
+  {
+    "Date": 20200929,
+    "Cases": 86638,
+    "New Cases": 369
+  },
+  {
+    "Date": 20200930,
+    "Cases": 87042,
+    "New Cases": 404
+  },
+  {
+    "Date": 20201001,
+    "Cases": 87522,
+    "New Cases": 480
+  },
+  {
+    "Date": 20201002,
+    "Cases": 88116,
+    "New Cases": 594
+  },
+  {
+    "Date": 20201003,
+    "Cases": 88810,
+    "New Cases": 694
+  },
+  {
+    "Date": 20201004,
+    "Cases": 89419,
+    "New Cases": 609
+  },
+  {
+    "Date": 20201005,
+    "Cases": 89874,
+    "New Cases": 455
+  },
+  {
+    "Date": 20201006,
+    "Cases": 90276,
+    "New Cases": 402
   }
 ]
